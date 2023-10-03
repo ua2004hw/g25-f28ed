@@ -7,4 +7,6 @@ layout: home
 
 ---
 
-in task
+## Tech Spec
+
+You can find the Spec Sheet [Here](https://docs.google.com/document/d/10ncJ4DFyqATVBqCiEP9dc5CL9UZo1Akx4rb1RMRwnUw/edit?usp=sharing)
